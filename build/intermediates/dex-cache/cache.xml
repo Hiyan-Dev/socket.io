@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\win7\.android\build-cache\f4d97c1e66818a8f0c1ecc458b5f615b750ee842\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="D:\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\classes_ad06d56bbfbf68a413ea6692150255ddd8274339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_9c7f0f00a3d76e88d03ff501363eae75a59facb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win7\.android\build-cache\62d0ee98d98fc56f4945b424b96152bd118ea781\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\classes_b988183717592dec540898ada91e57423ea3baa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win7\.android\build-cache\b6b770d84c2e0075dd3a5b464047b2342590af3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\classes_fa105654d0618b1fd3d27cf37c2bb72c983e2a81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win7\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.3.0\7896d229b6aa7884552ab9c23de54c7eb0de8203\okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="D:\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\okhttp-ws-2.3.0_d0f11ca00d23fbf486d7d5299ee2e714f395c8e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win7\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.5.0\7d40c590385ba95b34920eb89c986757a79968af\socket.io-client-0.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7d40c590385ba95b34920eb89c986757a79968af">
+        <dex dex="D:\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\socket.io-client-0.5.0_d54411bc171e87932c26afc33db52bdf9a2fb4a7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-socket.io-client-demo-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\android-socket.io-client-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_68ebb6b4a12db1756e7e116fafbbbcce7bf4b5cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win7\.android\build-cache\62d0ee98d98fc56f4945b424b96152bd118ea781\output\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_e79cd7382cf46e6095be3a842e3e7a9f0bbb268a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win7\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.5.0\72f54ba32a0d735630ebc33a5c39e14a5dd45492\engine.io-client-0.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72f54ba32a0d735630ebc33a5c39e14a5dd45492">
+        <dex dex="D:\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\engine.io-client-0.5.0_5d8e535953b142dc7ba00d710f24f2c8a696aad5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-socket.io-client-demo-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c9d68f4ad77a33f25bfebab6d7d329a25048ff0">
+        <dex dex="D:\android-socket.io-client-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_554e5d9edbd2e6d132bcc67187cbe44675a1749d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win7\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.3.0\1b355f73402020c5a0dcca58affc3ec3dfeabac1\okio-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="D:\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\okio-1.3.0_4bd3d63dd0d5ffc288ca2310c066c679cb97212e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win7\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.3.0\2e7bc7033dc2c8423e661224171b3133fb155b28\okhttp-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="D:\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\okhttp-2.3.0_364ea531fe0a3151ec40e3791dcc8917741ab3f6.jar" />
+    </item>
+
+</items>
